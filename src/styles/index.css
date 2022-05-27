@@ -1,4 +1,50 @@
+body {
+    background-color: #00d5ff;
+}
 
+.box {
+    border: 20px solid gray;
+    width: 140px;
+    height: 300px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    
+}
+
+.light {
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.sky {
+    height: 100vh;
+    align-items: center;
+}
+
+.verde {
+    background-color: rgb(91, 142, 39);
+}
+.verdeOn {
+    background-color: chartreuse;
+}
+
+.rojo {
+    background-color: rgb(149, 39, 39);
+}
+.rojoOn {
+    background-color: red;
+}
+.amarillo {
+    background-color: rgb(192, 192, 103);
+}
+.amarilloOn {
+    background-color: yellow;
+}
 /* 
 
     You can write your own styles here...

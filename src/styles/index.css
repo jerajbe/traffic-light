@@ -19,6 +19,7 @@ body {
     width: 70px;
     padding: 10px;
     margin: 10px;
+    border: solid black 1px;
 }
 
 .sky {
@@ -31,6 +32,7 @@ body {
 }
 .verdeOn {
     background-color: chartreuse;
+    border: 2px solid rgb(255, 221, 0);
 }
 
 .rojo {
@@ -38,12 +40,14 @@ body {
 }
 .rojoOn {
     background-color: red;
+    border: 2px solid rgb(255, 221, 0);
 }
 .amarillo {
     background-color: rgb(192, 192, 103);
 }
 .amarilloOn {
     background-color: yellow;
+    border: 2px solid rgb(255, 221, 0);
 }
 /* 
 
